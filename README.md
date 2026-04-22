@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7by24&layout=donut)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=7by24&show_icons=true)](https://github.com/7by24/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=7by24&show_icons=true)](https://github.com/7by24/7by24)
 
 
