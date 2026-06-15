@@ -1,5 +1,6 @@
 # here is 7by24👋
 
+🔭 I’m currently open to work
 <!--
 **7by24/7by24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Top Languages](./profile/top-langs.svg) ![Stats](./profile/stats.svg)
+<!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
