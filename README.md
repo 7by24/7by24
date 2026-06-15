@@ -2,7 +2,6 @@
 
 ### Engineering:
 With over 10+ years of hands-on experience building, scaling, and hardening mission-critical infrastructure, I specialize at the intersection of Site Reliability Engineering (SRE), DevOps transformation, and software development. My career has been defined by a single principle: systems should be resilient by design, not by accident.
-Core Expertise
 
 Site Reliability Engineering: Led SRE initiatives for high-traffic platforms serving millions of daily active users, driving service-level objectives (SLOs) and error budgets that reduced critical incidents by 60% while maintaining 99.99% uptime. Architected incident response frameworks, post-mortem cultures, and chaos engineering practices that turned reliability from a reactive burden into a competitive advantage.
 
