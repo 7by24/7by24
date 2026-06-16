@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">7by24's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 54, Total PRs: 3, Total Issues: 27, Contributed to (last year): 1</desc>
+        <title id="titleId">7by24 Tech's GitHub Stats, Rank: C</title>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 57, Total PRs: 3, Total Issues: 27, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 228.41583762084028;
+        stroke-dashoffset: 228.11711513866382;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >7by24's GitHub Stats</text>
+      >7by24 Tech's GitHub Stats</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >54</text>
+      >57</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
